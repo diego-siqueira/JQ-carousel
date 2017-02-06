@@ -5,10 +5,10 @@ $(function(){
 	
 	//Array of images
 	let imgLinks=[
-					  "/img/slide1.jpg",
-					  "/img/slide2.jpg",
-					  "/img/slide3.jpg",
-					  "/img/slide4.jpg"
+					  "img/slide1.jpg",
+					  "img/slide2.jpg",
+					  "img/slide3.jpg",
+					  "img/slide4.jpg"
 					  ];
 	
 	//set var for image number
